@@ -109,8 +109,10 @@ body{
     font-size: 32px;
 }
 .rodape-lista{
-    text-align: center;
-    margin: 5px;
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+    margin: 10m 0;
 }
 .rodape-logo{
     text-align: center;
