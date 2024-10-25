@@ -112,7 +112,7 @@ body{
     display: flex;
     list-style-type: none;
     justify-content: center;
-    margin: 10m 0;
+    margin: 1em 0;
 }
 .rodape-logo{
     text-align: center;
