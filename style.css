@@ -110,6 +110,7 @@ body{
 }
 .rodape-lista{
     display: flex;
+    margin: 10px;
 }
 .rodape-logo{
     justify-content: center;
